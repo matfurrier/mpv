@@ -53,6 +53,6 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE par
 ## 📬 Contato
 Para mais informações ou dúvidas sobre o Mapa de Vendas APP, entre em contato através do e-mail [matfurrier@gmail.com](mailto:matfurrier@gmail.com).
 
-Link do Projeto: [https://github.com/matfurrier/SalesMap](https://github.com/matfurrier/SalesMap)
+Link do Projeto: [https://github.com/matfurrier/mpv](https://github.com/matfurrier/mpv)
 
 Agradecemos por utilizar o Mapa de Vendas APP! Esperamos que esta ferramenta seja útil para melhorar a eficiência e colaboração em seu fluxo de trabalho. 🚀
