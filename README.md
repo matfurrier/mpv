@@ -1,3 +1,87 @@
+<p align="right">
+  <b>[EN]</b> | <a href="#pt-versão-em-português">[PT]</a>
+</p>
+
+# 🌐 Sales Map APP
+
+## 📝 Table of Contents
+- [Description](#description)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Automated Calculations](#automated-calculations)
+- [Contributions](#contributions)
+- [License](#license)
+- [Contact](#contact)
+
+## 📖 Description
+
+**Sales Map APP** is a tool designed to provide a clear and precise view of sales and targets, streamlining performance analysis and decision-making. It automatically extracts data from SAP and displays it in an organized and intuitive way.
+
+## 🛠 Technologies
+
+- React  
+- Node.js  
+- Axios  
+- CSS3  
+
+## ⚙ Installation
+
+**Prerequisites**  
+Make sure you have Node.js and NPM installed on your machine.
+
+## 🎮 Usage
+
+1. Log in with your username and password.  
+2. If you're a coordinator, you'll see the sales map of all supervisors.
+
+![Coordinator View](https://github.com/matfurrier/mpv/assets/30526394/196f7fae-279b-4081-8677-364c8b7ed696)
+
+3. If you're a supervisor, you'll see only your data.
+
+![Supervisor View](https://github.com/matfurrier/mpv/assets/30526394/a228eb5d-9269-42dc-90bf-0eea2cf23eed)
+
+## 🧮 Automated Calculations
+
+Sales Map APP provides insightful automatic calculations based on SAP data:
+
+- **Monthly and Yearly Comparison**  
+  Compare sales performance between different months and years.
+
+- **Sales Performance**  
+  Analyze progress toward targets, showing absolute and percentage gaps.
+
+- **Semester Analysis**  
+  Evaluate performance across the fiscal year's semesters.
+
+- **Product Line Analysis**  
+  Track performance per product line.
+
+- **Supervisor Totals**  
+  Aggregate sales values per supervisor for a consolidated team view.
+
+## 🤝 Contributions
+
+Contributions are welcome!  
+Feel free to open an issue or create a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+See the `LICENSE` file for details.
+
+## 📬 Contact
+
+For more information, contact [matfurrier@gmail.com](mailto:matfurrier@gmail.com).  
+Project Link: [https://github.com/matfurrier/mpv](https://github.com/matfurrier/mpv)
+
+---
+
+<a id="pt-versão-em-português"></a>
+<p align="right">
+  <a href="#">[EN]</a> | <b>[PT]</b>
+</p>
+
 # 🌐 Mapa de Vendas APP
 
 ## 📝 Sumário
@@ -11,48 +95,64 @@
 - [Contato](#contato)
 
 ## 📖 Descrição
-Mapa de Vendas APP é uma ferramenta desenvolvida para proporcionar uma visão clara e precisa das vendas e metas, facilitando a análise de desempenho e agilizando o processo de tomada de decisão. Ele extrai dados automaticamente do SAP, apresentando-os de forma organizada e intuitiva.
+
+**Mapa de Vendas APP** é uma ferramenta desenvolvida para proporcionar uma visão clara e precisa das vendas e metas, facilitando a análise de desempenho e agilizando a tomada de decisões. Ele extrai dados automaticamente do SAP, apresentando-os de forma organizada e intuitiva.
 
 ## 🛠 Tecnologias
-As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
-- React
-- Node.js
-- Axios
-- CSS3
+
+- React  
+- Node.js  
+- Axios  
+- CSS3  
 
 ## ⚙ Instalação
-**Pré-requisitos**
-Certifique-se de ter o Node.js e NPM instalados em sua máquina antes de seguir os próximos passos.
+
+**Pré-requisitos**  
+Certifique-se de ter o Node.js e NPM instalados em sua máquina.
 
 ## 🎮 Uso
-Para utilizar o Mapa de Vendas APP, siga os passos abaixo:
-1. Faça login com seu usuário e senha.
-2. Se você for um coordenador, verá o mapa de vendas de todos os supervisores.
 
-![2023-09-26 11_24_18-](https://github.com/matfurrier/mpv/assets/30526394/196f7fae-279b-4081-8677-364c8b7ed696)
+1. Faça login com seu usuário e senha.  
+2. Se você for coordenador, verá o mapa de vendas de todos os supervisores.
 
-3. Se você é um supervisor, visualizará seus números apenas.
+![Coordenador](https://github.com/matfurrier/mpv/assets/30526394/196f7fae-279b-4081-8677-364c8b7ed696)
 
-![2023-09-26 11_23_14-Anderson Silva _ Microsoft Teams Classic](https://github.com/matfurrier/mpv/assets/30526394/a228eb5d-9269-42dc-90bf-0eea2cf23eed)
+3. Se você for supervisor, visualizará apenas seus próprios dados.
 
+![Supervisor](https://github.com/matfurrier/mpv/assets/30526394/a228eb5d-9269-42dc-90bf-0eea2cf23eed)
 
 ## 🧮 Cálculos Automáticos
-O Mapa de Vendas APP realiza diversos cálculos automaticamente com base nos dados extraídos do SAP, oferecendo insights valiosos, tais como:
-- **Comparação Mensal e Anual:** Compara o desempenho das vendas entre diferentes meses e anos.
-- **Desempenho de Vendas:** Analisa o desempenho de vendas em relação às metas estabelecidas, mostrando as diferenças em valor e percentual.
-- **Análise Semestral:** Avalia o desempenho de vendas em cada semestre do ano fiscal, facilitando a análise sazonal.
-- **Análise Por Linha De Produto:** Avalia o desempenho de vendas em cada linha de produtos.
-- **Totais por Supervisor:** Agrega os valores de vendas por supervisor, permitindo uma visão consolidada do desempenho de cada equipe.
+
+O APP realiza diversos cálculos automaticamente com base nos dados extraídos do SAP:
+
+- **Comparação Mensal e Anual**  
+  Compara o desempenho das vendas entre diferentes meses e anos.
+
+- **Desempenho de Vendas**  
+  Analisa o desempenho em relação às metas, mostrando as diferenças em valor e percentual.
+
+- **Análise Semestral**  
+  Avalia o desempenho em cada semestre do ano fiscal.
+
+- **Análise por Linha de Produto**  
+  Mostra o desempenho por linha de produto.
+
+- **Totais por Supervisor**  
+  Agrega os valores de vendas por supervisor para visão consolidada.
 
 ## 🤝 Contribuições
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma Issue ou criar um Pull Request.
+
+Contribuições são sempre bem-vindas!  
+Sinta-se à vontade para abrir uma issue ou pull request.
 
 ## 📄 Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter detalhes.
+
+Este projeto está licenciado sob a Licença MIT.  
+Consulte o arquivo `LICENSE` para mais detalhes.
 
 ## 📬 Contato
-Para mais informações ou dúvidas sobre o Mapa de Vendas APP, entre em contato através do e-mail [matfurrier@gmail.com](mailto:matfurrier@gmail.com).
 
+Para dúvidas ou sugestões: [matfurrier@gmail.com](mailto:matfurrier@gmail.com)  
 Link do Projeto: [https://github.com/matfurrier/mpv](https://github.com/matfurrier/mpv)
 
-Agradecemos por utilizar o Mapa de Vendas APP! Esperamos que esta ferramenta seja útil para melhorar a eficiência e colaboração em seu fluxo de trabalho. 🚀
+Agradecemos por utilizar o Mapa de Vendas APP! Esperamos que esta ferramenta otimize sua tomada de decisão. 🚀
