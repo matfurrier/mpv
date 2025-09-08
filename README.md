@@ -35,11 +35,11 @@ Make sure you have Node.js and NPM installed on your machine.
 1. Log in with your username and password.  
 2. If you're a coordinator, you'll see the sales map of all supervisors.
 
-![Coordinator View](https://github.com/user-attachments/assets/38507dd5-c874-4b24-b4d6-1e4099c272cb)
+<img width="1851" height="793" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/32841fd6-fe57-490c-9493-6f27c4466a31" />
 
 3. If you're a supervisor, you'll see only your data.
 
-![Supervisor View](https://github.com/matfurrier/mpv/assets/25d92187-8ecf-47a0-b93b-751fe90b6a42)
+<img width="1863" height="707" alt="Design sem nome" src="https://github.com/user-attachments/assets/e3145609-e593-4143-b1d5-4b785c8e587b" />
 
 ## 🧮 Automated Calculations
 
@@ -115,11 +115,11 @@ Certifique-se de ter o Node.js e NPM instalados em sua máquina.
 1. Faça login com seu usuário e senha.  
 2. Se você for coordenador, verá o mapa de vendas de todos os supervisores.
 
-![Coordenador](https://github.com/matfurrier/mpv/assets/38507dd5-c874-4b24-b4d6-1e4099c272cb)
+<img width="1851" height="793" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/d04f65ea-4244-4d3a-abce-1511e5a9adf2" />
 
 3. Se você for supervisor, visualizará apenas seus próprios dados.
 
-![Supervisor](https://github.com/matfurrier/mpv/assets/30526394/25d92187-8ecf-47a0-b93b-751fe90b6a42)
+<img width="1863" height="707" alt="Design sem nome" src="https://github.com/user-attachments/assets/fd5b2275-6b16-4c5f-bbc8-db75fbaf9f8a" />
 
 ## 🧮 Cálculos Automáticos
 
