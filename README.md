@@ -39,7 +39,7 @@ Make sure you have Node.js and NPM installed on your machine.
 
 3. If you're a supervisor, you'll see only your data.
 
-![Supervisor View](https://github.com/matfurrier/mpv/assets/30526394/a228eb5d-9269-42dc-90bf-0eea2cf23eed)
+![Supervisor View](https://github.com/matfurrier/mpv/assets/25d92187-8ecf-47a0-b93b-751fe90b6a42)
 
 ## 🧮 Automated Calculations
 
@@ -115,11 +115,11 @@ Certifique-se de ter o Node.js e NPM instalados em sua máquina.
 1. Faça login com seu usuário e senha.  
 2. Se você for coordenador, verá o mapa de vendas de todos os supervisores.
 
-![Coordenador](https://github.com/matfurrier/mpv/assets/30526394/196f7fae-279b-4081-8677-364c8b7ed696)
+![Coordenador](https://github.com/matfurrier/mpv/assets/38507dd5-c874-4b24-b4d6-1e4099c272cb)
 
 3. Se você for supervisor, visualizará apenas seus próprios dados.
 
-![Supervisor](https://github.com/matfurrier/mpv/assets/30526394/a228eb5d-9269-42dc-90bf-0eea2cf23eed)
+![Supervisor](https://github.com/matfurrier/mpv/assets/30526394/25d92187-8ecf-47a0-b93b-751fe90b6a42)
 
 ## 🧮 Cálculos Automáticos
 
