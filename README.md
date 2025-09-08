@@ -35,7 +35,7 @@ Make sure you have Node.js and NPM installed on your machine.
 1. Log in with your username and password.  
 2. If you're a coordinator, you'll see the sales map of all supervisors.
 
-![Coordinator View](https://github.com/matfurrier/mpv/assets/30526394/196f7fae-279b-4081-8677-364c8b7ed696)
+![Coordinator View](https://github.com/user-attachments/assets/38507dd5-c874-4b24-b4d6-1e4099c272cb)
 
 3. If you're a supervisor, you'll see only your data.
 
